@@ -12,7 +12,7 @@
 <h3 align="center">B.Tech CSE Student | Aspiring Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manoj_8057&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=manu8057&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
