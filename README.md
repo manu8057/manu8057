@@ -45,7 +45,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Manoj_8057&theme=midnight-purple&hide_border=true" width="90%" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=manu8057&theme=midnight-purple&hide_border=true" width="90%" alt="Streak Stats"/>
 
   <br/><br/>
 
