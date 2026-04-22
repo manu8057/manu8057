@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3E92CC&size=30&center=true&vCenter=true&width=700&lines=Hello+Everyone+👋;B.Tech+Computer+Science+Student+💻;DSA+Enthusiast+(700++Solved)+🔥;Let's+Build+Something+Great+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3E92CC&size=30&center=true&vCenter=true&width=700&lines=Hello+Everyone+👋;B.Tech+Computer+Science+Student+💻;DSA+Enthusiast+(700++Solved)+🔥;Full+Stack+Java+Developer+🚀" />
 </h1>
 
 <p align="center">
@@ -12,21 +12,21 @@
 
 ---
 
-# 🏆 GitHub Trophy Case
+### 🏆 GitHub Trophy Case
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manu8057&theme=tokyonight&no-bg=true&column=4" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manu8057&theme=tokyonight&no-bg=true&column=4&margin-w=15" width="100%" alt="Manoj's Trophies" />
 </p>
 
 ---
 
-# 💫 About Me:
+### 💫 About Me:
 <table border="0">
   <tr>
     <td width="60%">
-      <p>💻 <strong>B.Tech CSE Student</strong></p>
-      <p>🚀 <strong>Exploring Full Stack Web Development</strong></p>
-      <p>🔥 <strong>Solving complex problems on LeetCode & GFG</strong></p>
-      <p>📫 Reach me at: <strong>manojsharma8057@gmail.com</strong> (Bhai, apni mail check krke sahi kr dena yaha)</p>
+      <p>💻 <strong>B.Tech CSE Student</strong> at GLA University</p>
+      <p>🚀 <strong>Exploring Full Stack Web Development & Machine Learning</strong></p>
+      <p>🔥 <strong>Solving complex problems on LeetCode & GFG (700+ Problems)</strong></p>
+      <p>📫 Reach me at: <a href="mailto:manupandit0022@gmail.com"><strong>manupandit0022@gmail.com</strong></a></p>
     </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/SWoRKslxGqQAEOFZ1H/giphy.gif" width="200px"/>
@@ -36,14 +36,14 @@
 
 ---
 
-# 🛠 Language and Tools:
+### 🛠️ Language and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nodejs,mongodb,mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nodejs,mongodb,mysql,git,github,vscode,postman,spring,cpp" />
 </p>
 
 ---
 
-## 📊 Competitive Programming Stats
+## 📊 Performance Metrics
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=manu8057&theme=tokyonight&hide_border=true" width="90%" alt="Streak Stats"/>
@@ -67,14 +67,11 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity & Snake
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manu8057&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
----
-
-## 🐍 Snake Contribution Map
 <p align="center">
   <img src="https://raw.githubusercontent.com/manu8057/manu8057/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
@@ -89,39 +86,29 @@
 
 ---
 
-# 🎯 Current Focus & Goals:
+### 🎯 Roadmap & Connect:
 <table border="0">
   <tr>
-    <td width="50%">
-      <h3>Current Focus</h3>
-      <ul>
-        <li>Advanced DSA Techniques</li>
-        <li>System Design Basics</li>
-        <li>Backend with Node.js/Java</li>
-      </ul>
-    </td>
     <td width="50%">
       <h3>Next 6 Months</h3>
       <ul>
         <li>Solve 300+ more DSA problems</li>
-        <li>Build 2 Major Full Stack Projects</li>
+        <li>Master Spring Boot & Microservices</li>
         <li>Crack a Top-tier Internship</li>
       </ul>
     </td>
+    <td width="50%" align="center">
+      <h3>Let's Network</h3>
+      <a href="https://www.linkedin.com/in/manoj-sharma-6bb801305/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <a href="mailto:manupandit0022@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
   </tr>
 </table>
-
----
-
-# 🌐 Connect with Me:
-<p align="center">
-<a href="https://www.linkedin.com/in/manoj-sharma-6bb801305/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:manojsharma8057@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
