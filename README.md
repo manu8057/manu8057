@@ -1,103 +1,227 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=header&text=Manoj%20Sharma&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
+ <p align="left">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=header" width="100%"/>
+
 </p>
+
+
+
+<h1 align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=30&center=true&lines=Hello+Everyone+👋;
+
+    Welcome+to+My+Profile+💻; 
+
+    Let's+Build+Something+Great+🚀;" />
+
+</h1>
+
+
+
+<h1 align="center">Hi 👋, I'm Manoj Sharma</h1>
+
+<h3 align="center">B.Tech CSE Student | Aspiring Developer 🚀</h3>
+
+
+
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=manu8057&label=Profile%20views&color=0e75b6&style=flat" />
+
+</p>
+
+
+
+---
+
+
+
+# 💫 About Me:
+
+💻 B.Tech CSE Student  
+
+🚀 Exploring Web Development & DSA  
+
+🔥 Solving problems on LeetCode & GeeksforGeeks  
+
+
+
+---
+
+
+
+# 🌐 Connect with Me:
+
+
+
+<a href="https://www.linkedin.com/in/manoj-sharma-6bb801305/" target="_blank">
+
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+
+
+---
+
+
+
+# 🛠 Language and Tools:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+---
+
+
+
+## 📊 Competitive Programming Stats
+
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=FF7800&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+Aspiring;DSA+Enthusiast;Building+Scalable+Solutions;Lifelong+Learner+🚀" />
-</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manoj-sharma-6bb801305/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/Manoj_8057" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-</p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=manu8057&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" /> 
-</p>
 
----
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=manu8057&theme=midnight-purple&hide_border=true" width="90%" alt="Streak Stats"/>
 
-### 💫 About Me
-I am a **B.Tech Computer Science student** with a deep passion for problem-solving and building web applications. Currently, I'm sharpening my skills in **Data Structures & Algorithms** and exploring the latest trends in **Full-Stack Development**.
 
-- 🔭 I’m currently working on **Personal Projects & DSA**
-- 📚 Learning **System Design & Advanced Java**
-- 💬 Ask me about **Java, Web Dev, or LeetCode strategies**
-- ⚡ Fun fact: **Solved 700+ problems across various platforms!**
 
----
+  <br/><br/>
 
-### 🛠️ My Tech Stack
 
-<table align="center" border="0">
+
+ <table border="0" width="100%">
+
   <tr>
-    <td align="center" width="150"><strong>Languages</strong></td>
-    <td align="center" width="150"><strong>Frontend</strong></td>
-    <td align="center" width="150"><strong>Tools/Database</strong></td>
+
+    <td width="50%" align="center">
+
+      <a href="https://leetcode.com/Manoj_8057">
+
+        <img src="https://leetcard.jacoblin.cool/Manoj_8057?theme=dark&font=baloo&ext=heatmap" 
+
+             height="250px" alt="LeetCode" />
+
+      </a>
+
+    </td>
+
+    <td width="50%" align="center">
+
+      <a href="https://www.geeksforgeeks.org/profile/manupandstqu">
+
+        <img src="https://gfgstatscard.vercel.app/manupandstqu" 
+
+             height="250px" alt="GFG" />
+
+      </a>
+
+    </td>
+
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,javascript,cpp" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
-    </td>
-  </tr>
+
 </table>
 
----
 
-### 📊 Coding Metrics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=manu8057&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=manu8057&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://leetcode.com/Manoj_8057">
-          <img src="https://leetcard.jacoblin.cool/Manoj_8057?theme=dark&font=baloo" height="150px" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.geeksforgeeks.org/profile/manupandstqu">
-          <img src="https://gfgstatscard.vercel.app/manupandstqu" height="150px" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
-### 📈 GitHub Activity Graph
+
+
+## 📈 Contribution Graph
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manu8057&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+
+
+
+<h3 align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</h3>
+
+
+
+<div align="center">
+
+    <h1>
+
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Turn+challenges....;into+opportunities.....;+with+code..." />
+
+    </h1>
+
+</div>
+
+
+
+<h3 align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+</h3>
+
+
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manu8057&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thank+You+for+Visiting+My+Profile" />
+
 </p>
 
+
+
+⭐ Star some repositories if you find them useful! Happy Coding! 🚀
+
+
+
 ---
 
-### 🚀 Future Roadmap
-- [ ] Master **Spring Boot & Microservices**
-- [ ] Reach **Knight Badge** on LeetCode
-- [ ] Contribute to **Open Source** projects
-- [ ] Secure a high-impact **Software Engineering Internship**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=50&section=footer&text=Keep%20Coding%20•%20Keep%20Growing&fontSize=20&fontColor=ffffff" width="100%"/>
+
+## 🎯 Current Focus
+
+- DSA  
+
+- Web Development  
+
+
+
+---
+
+
+
+## 🚀 Goals (Next 6 Months)
+
+- Solve 300+ DSA problems  
+
+- Build full stack projects  
+
+- Crack a good internship  
+
+
+
+---
+
+
+
+<h3 align="center">⚡ "Turn challenges into opportunities with code."</h3>
+
+
+
+<p align="left">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=footer" width="100%"/>
+
 </p>
