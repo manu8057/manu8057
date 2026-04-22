@@ -12,13 +12,6 @@
 
 ---
 
-### 🏆 GitHub Trophy Case
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manu8057&theme=tokyonight&no-bg=true&column=4&margin-w=15" width="100%" alt="Manoj's Trophies" />
-</p>
-
----
-
 ### 💫 About Me:
 <table border="0">
   <tr>
@@ -67,13 +60,9 @@
 
 ---
 
-## 📈 GitHub Activity & Snake
+## 📈 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manu8057&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manu8057/manu8057/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
