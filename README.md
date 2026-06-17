@@ -18,7 +18,7 @@
     <td width="60%">
       <p>💻 <strong>B.Tech CSE Student</strong> at GLA University</p>
       <p>🚀 <strong>Exploring Full Stack Web Development & Machine Learning</strong></p>
-      <p>🔥 <strong>Solving complex problems on LeetCode & GFG (700+ Problems)</strong></p>
+      <p>🔥 <strong>Solving complex problems on LeetCode & GFG (1000+ Problems)</strong></p>
       <p>📫 Reach me at: <a href="mailto:manupandit0022@gmail.com"><strong>manupandit0022@gmail.com</strong></a></p>
     </td>
     <td width="40%" align="center">
